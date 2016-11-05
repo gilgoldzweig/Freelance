@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "106683693366",
+    "firebase_url": "https://eliranapp.firebaseio.com",
+    "project_id": "eliranapp",
+    "storage_bucket": "eliranapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106683693366:android:f1be169d50567f22",
+        "android_client_info": {
+          "package_name": "goldzweigapps.freelancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106683693366-443hplsutc9v67761tckleipkofl2dua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2leNycvEEj3nHW4Xaoi5LqxgxCQULSQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106683693366:android:6448df29c34c4a67",
+        "android_client_info": {
+          "package_name": "goldzweigapps.freelance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106683693366-07c2j2akq8iidtd5ljvmmjo5icnmf5mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "goldzweigapps.freelance",
+            "certificate_hash": "CC14033376A080284100D46FD06137E59E6F5EE8"
+          }
+        },
+        {
+          "client_id": "106683693366-443hplsutc9v67761tckleipkofl2dua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2leNycvEEj3nHW4Xaoi5LqxgxCQULSQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106683693366-443hplsutc9v67761tckleipkofl2dua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="goldzweigapps.freelance.Activitis.MainActivity">
+
+    <TextView
+        android:text="Please type password to continue this is only a safe area and will be removed after payment clear don't feel bad i do it with every client of mine "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:id="@+id/textView2"
+        android:textStyle="normal|bold"
+        android:textSize="20sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="95dp"
+        android:id="@+id/password"
+        android:hint="Password"
+        style="@android:style/Widget.Material.EditText"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentStart="true"
+        android:singleLine="true" />
+
+    <Button
+        android:text="login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_marginEnd="101dp"
+        android:layout_marginBottom="60dp"
+        android:id="@+id/login" />
+</RelativeLayout>
